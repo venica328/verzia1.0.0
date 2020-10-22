@@ -1,0 +1,20 @@
+.buyButton {
+    display: block;
+    position: absolute;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: lightseagreen;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    bottom: -10%;
+    right: 0%;
+    border-radius: 4px;
+}
+
+.buyButton:hover {
+    background-color: white;
+    color: lightseagreen;
+}
